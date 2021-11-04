@@ -1,0 +1,15 @@
+#BleepoTablist by Bleepo - v1.1.0
+#Valid placeholders are %tps%, %ping%, %players%, and %uptime%. They are pretty self-explanatory
+Tablist:
+  Header:
+    - "&b&lBleepo&3&lTablist"
+    - "&r"
+    - "&6The best tablist plugin to ever exist"
+    - "&r"
+  Footer:
+    - "&r"
+    - "&3 tps %tps% - ping %ping% - players %players% - uptime %uptime%"
+    - "&r"
+    - "&7contact: Bleepo#2737"
+    - "&7website: https://bleepo.org"
+    - "&7discussion: https://reddit.com/r/bleepo"

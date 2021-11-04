@@ -1,0 +1,6 @@
+name: BleepoTablist
+version: '${project.version}'
+main: dev.bleepo.bleepotablist.BleepoTablist
+authors: [ Bleepo ]
+description: A tablist for anarchy servers
+website: https://bleepo.org
