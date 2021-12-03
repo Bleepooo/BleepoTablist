@@ -8,7 +8,7 @@ Tablist:
     - "&r"
   Footer:
     - "&r"
-    - "&3 tps %tps% - ping %ping% - players %players% - uptime %uptime%"
+    - "&3 tps %tps% &3- ping %ping% - players %players% - uptime %uptime%"
     - "&r"
     - "&7contact: Bleepo#2737"
     - "&7website: https://bleepo.org"
